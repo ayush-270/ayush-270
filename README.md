@@ -104,15 +104,11 @@ I love pushing myself—whether it’s coding marathons or heavy gym sessions �
 
 ###
 
-<img align=center src="https://raw.githubusercontent.com/ayush-270/ayush-270/output/snake.svg" alt="Snake animation" />
-
-![3D Contribution View](./profile-3d-contrib/profile-night-rainbow.svg)
-
 ###
 
 <div align="center">
   <img
-    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Rudra00codes&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=3"
+    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ayush-270&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=3"
     alt="GitHub Streak"
     style="width:100%;max-width:1400px;height:auto;display:block;margin:0 auto;"
   />
