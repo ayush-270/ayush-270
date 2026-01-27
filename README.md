@@ -1,21 +1,142 @@
-# 💫 About Me:
-⚒️ I’m currently working on<br>Sharpening my DSA & system design fundamentals for SDE roles<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Scalable backend projects and high-performance system builds<br><br>🤝 I’m looking for help with<br>Optimizing complex systems and writing clean, maintainable architecture<br><br>🌱 I’m currently learning<br>Advanced data structures, algorithms, and real-world system design<br><br>💬 Ask me about<br>DSA roadmaps, Java programming, and building production-ready applications<br><br>⚡ Fun fact<br>I love pushing myself—whether it’s coding marathons or heavy gym sessions 💪
+![banner](https://github.com/user-attachments/assets/60a20d27-52af-4abb-88ba-d9b9e0477629)
+
+<h1 align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sometype+Mono&weight=900&size=40&pause=1000&color=F7BF30&center=true&vCenter=true&random=false&width=435&lines=Hi+there!🤝+;I'm++Ayush!😃" alt="Typing SVG" /></a>
+
+</h1>
+
+<h3 align="centre">"Mastering the art of frontend development: Empowering your designs."</h3>
+<img align="right" alt="coding" width="450" src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+
+![Page Views](https://komarev.com/ghpvc/?username=ayush-270&color=yellow)
+
+###
+
+⚒️ I’m currently working on
+<br>
+Sharpening my DSA & system design fundamentals for SDE roles
+<br>
+<br>
+🧑‍🤝‍🧑 I’m looking to collaborate on
+<br>
+Scalable backend projects and high-performance system builds
+<br>
+<br>
+🤝 I’m looking for help with
+<br>
+Optimizing complex systems and writing clean, maintainable architecture
+<br>
+<br>
+🌱 I’m currently learning
+<br>
+Advanced data structures, algorithms, and real-world system design
+<br>
+<br>
+💬 Ask me about
+<br>
+DSA roadmaps, Java programming, and building production-ready applications
+<br>
+<br>
+⚡ Fun fact
+<br>
+I love pushing myself—whether it’s coding marathons or heavy gym sessions 💪
+
+- 📬 Reach out: Email-**ayush27.work@gmail.com**—I love discussing tech, projects, or just geeking out!
+<hr>
+
+<h3 align="center"> 🔗Connect with me </h3>
+<p align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ayush-gupta270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayush-gupta270" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ayush2t2w5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayush2t2w5" height="30" width="40" /></a>
+</p>
+
+###
+
+<hr>
+
+<h2 align="center"> ⚒️ Languages and Tools ⚒️</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=md" height="35" alt="markdown logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=css" height="35" alt="css3 logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=c" height="35" alt="c logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cplusplus logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="35" alt="jupyter logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
+  <img width="13" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="35" alt="ubuntu logo"  />
+  <img width="13" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="35" alt="powershell logo"  />
+</div>
+
+###
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+###
+
+<img align=center src="https://raw.githubusercontent.com/ayush-270/ayush-270/output/snake.svg" alt="Snake animation" />
+
+![3D Contribution View](./profile-3d-contrib/profile-night-rainbow.svg)
+
+###
+
+<div align="center">
+  <img
+    src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=Rudra00codes&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%2300d4aa%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23ff6b6b%22%7D&t=3"
+    alt="GitHub Streak"
+    style="width:100%;max-width:1400px;height:auto;display:block;margin:0 auto;"
+  />
+</div>
+<br />
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ayush-gupta2702) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayxsh_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush27.work@gmail.com) 
+<div align=center height="650">
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush-270&theme=vision_friendly_dark)
+</div>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayush-270&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayush-270&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Rudra00codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-270&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=ayush-270&icon=0&color=0)](https://visitcount.itsvg.in)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-270&theme=vision_friendly_dark)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=merko&animation=default&layout=default&font=PixelifySans&quoteType=random&fontColor=yellow&borderColor=yellow)
+
+</div>
+
+<hr/>
