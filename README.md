@@ -125,8 +125,6 @@ I love pushing myself—whether it’s coding marathons or heavy gym sessions �
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="35" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=apache" height="35" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="35" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=powershell" height="35" />
