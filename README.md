@@ -6,7 +6,7 @@
 
 </h1>
 
-<h3 align="centre">"Mastering the art of frontend development: Empowering your designs."</h3>
+<h3 align="centre">"Learning software engineering through fundamentals, experiments, and consistency."</h3>
 <img align="right" alt="coding" width="450" src=https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 
 ![Page Views](https://komarev.com/ghpvc/?username=ayush-270&color=yellow)
