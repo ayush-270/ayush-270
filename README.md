@@ -159,7 +159,7 @@ I love pushing myself—whether it’s coding marathons or heavy gym sessions �
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
 
-![Rudra00codes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-270&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+![Ayush-270's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-270&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-270&theme=vision_friendly_dark)
 
